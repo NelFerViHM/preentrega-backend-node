@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "title": "Fjallraven - Foldsack No. 1 Backpack",
+        "price": 109.95,
+        "category": "men's clothing"
+    },
+    {
+        "id": 2,
+        "title": "Mens Casual Premium Slim Fit T-Shirts",
+        "price": 22.3,
+        "category": "men's clothing"
+    },
+    {
+        "id": 3,
+        "title": "Mens Cotton Jacket",
+        "price": 55.99,
+        "category": "men's clothing"
+    },
+    {
+        "id": 7,
+        "title": "White Gold Plated Princess",
+        "price": 9.99,
+        "category": "jewelery"
+    },
+    {
+        "id": 15,
+        "title": "BIYALAVAS Women's 3-in-1 Snowboard Jacket",
+        "price": 56.99,
+        "category": "women's clothing"
+    }
+]

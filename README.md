@@ -1,11 +1,10 @@
-
-# Pre-Entrega: Herramienta de Gestión de Productos vía Terminal (TechLab) 🚀
+# Pre-Entrega: Herramienta de Gestión de Productos vía Terminal (TechLab)
 
 Este proyecto consiste en una herramienta funcional desarrollada en **Node.js** para interactuar con una tienda en línea desde la terminal de comandos. Permite listar, consultar, crear y eliminar productos mediante peticiones HTTP asincrónicas, cumpliendo con los estándares modernos de JavaScript.
 
 ---
 
-## 🛠️ Tecnologías y Conceptos Aplicados
+## Tecnologías y Conceptos Aplicados
 
 * **Node.js** como entorno de ejecución.
 * **ES Modules (`import/export`)** habilitados mediante la propiedad `"type": "module"` en el `package.json`.
@@ -16,7 +15,7 @@ Este proyecto consiste en una herramienta funcional desarrollada en **Node.js** 
 
 ---
 
-## 📜 Bitácora de Desarrollo y Resolución de Problemas (Troubleshooting)
+## Bitácora de Desarrollo y Resolución de Problemas (Troubleshooting)
 
 Durante el ciclo de desarrollo de la preentrega, el proyecto evolucionó a través de diferentes fases operativas debido a contingencias con los proveedores de servicios externos:
 
@@ -28,7 +27,7 @@ Durante el ciclo de desarrollo de la preentrega, el proyecto evolucionó a trav�
 
 ---
 
-## 💻 Modos de Uso en Consola
+## Modos de Uso en Consola
 
 Para ejecutar los requerimientos de la consigna, la terminal integrada debe iniciar el flujo mediante el script configurado `npm run start`, seguido de la acción (`GET`, `POST`, `DELETE`) y el recurso correspondiente:
 

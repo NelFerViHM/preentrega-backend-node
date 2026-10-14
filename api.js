@@ -6,11 +6,11 @@ const ARCHIVO_LOCAL = './productos.json';
 // Función auxiliar para leer el respaldo local si la API falla
 async function leerRespaldoLocal() {
     try {
-        console.log("⚠️ Servidor externo inaccesible. Cargando base de datos local de respaldo...");
+        console.log("Servidor externo inaccesible. Cargando base de datos local de respaldo...");
         const datos = await fs.readFile(ARCHIVO_LOCAL, 'utf-8');
         return JSON.parse(datos);
     } catch (err) {
-        console.error("❌ Error crítico: Tampoco se pudo leer el archivo de respaldo local.");
+        console.error("Error crítico: Tampoco se pudo leer el archivo de respaldo local.");
         return [];
     }
 }
